@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-    senhaAlvo:= "12345678"
+    senhaAlvo:= "25000001"
 	inicio:= time.Now()
 
 	for i:= 0; i<=99999999; i++ {

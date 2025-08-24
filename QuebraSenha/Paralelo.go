@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-    senhaAlvo := "12345678"
+    senhaAlvo := "25000001"
     N := 4 // numero de threads
 
     var wg sync.WaitGroup
